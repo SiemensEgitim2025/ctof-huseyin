@@ -26,5 +26,3 @@ pytest -v
 
 
 
-readme new lines.
-added for test purposes only.
